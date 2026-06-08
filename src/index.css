@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+@theme {
+  --font-sans: "Inter", "Plus Jakarta Sans", "SimSun", "STSong", "serif";
+  --font-serif: "SimSun", "STSong", "serif";
+  
+  --color-primary: #6e3bd8;
+  --color-primary-container: #cbb6ff;
+  --color-secondary: #b5146e;
+  --color-secondary-container: #ffd9e4;
+  --color-surface: #fff7fa;
+  --color-surface-container: #f7eaf3;
+  --color-surface-container-low: #fcf0f7;
+  --color-on-surface: #393038;
+  --color-on-surface-variant: #675c65;
+}
+
+@layer base {
+  body {
+    @apply bg-surface text-on-surface font-serif;
+  }
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.soul-gradient {
+  background: linear-gradient(135deg, #6e3bd8 0%, #cbb6ff 100%);
+}

@@ -1,0 +1,119 @@
+schema_version: 1
+module_path: ""
+title: 智课通 AI Tutor 前端应用
+scope:
+    - src/
+    - api/
+    - .codeartsdoer/
+    - package.json
+    - vite.config.ts
+    - tsconfig.json
+    - index.html
+    - README.md
+    - AGENTS.md
+    - VIDEO_BACKGROUND_GUIDE.md
+    - 技术介绍.md
+    - .gitignore
+    - vercel.json
+    - metadata.json
+    - conversation-2026-05-08-165340.txt
+    - tsc-output.txt
+    - package-lock.json
+    - .codeartsdoer\.codebaseignore
+    - .codeartsdoer\.gitignore
+    - .codeartsdoer\AGENTS.md
+    - .codeartsdoer\mcp\mcp_settings.json
+    - .codeartsdoer\package-lock.json
+    - .codeartsdoer\package.json
+    - .codeartsdoer\rule\metadata.properties
+    - .codeartsdoer\skills\ProjectSkillStatus.txt
+    - .codeartsdoer\skills\managing-sdd-design-markdown\design-principles.md
+    - .codeartsdoer\skills\managing-sdd-design-markdown\design_template.md
+    - .codeartsdoer\skills\managing-sdd-spec-markdown\ears-format.md
+    - .codeartsdoer\skills\managing-sdd-spec-markdown\spec_template.md
+    - .codeartsdoer\skills\managing-sdd-tasks-markdown\tasks_template.md
+    - .codeartsdoer\specs\video-background-login\design.md
+    - .codeartsdoer\specs\video-background-login\spec.md
+    - .codeartsdoer\specs\video-background-login\tasks.md
+    - .env.example
+    - .qoder\repowiki\knowledge\zh\_index.yaml
+    - .qoder\repowiki\knowledge\zh\智课通 AI Tutor 前端应用\_module.yaml
+    - .qoder\repowiki\knowledge\zh\智课通 AI Tutor 前端应用\技术栈.md
+    - .qoder\repowiki\knowledge\zh\智课通 AI Tutor 前端应用\架构设计.md
+    - .qoder\repowiki\knowledge\zh\智课通 AI Tutor 前端应用\概述.md
+    - .qoder\repowiki\knowledge\zh\智课通 AI Tutor 前端应用\编码规范.md
+    - .qoder\repowiki\zh\content\AI助手系统\AI助手系统.md
+    - .qoder\repowiki\zh\content\AI助手系统\AI服务集成.md
+    - .qoder\repowiki\zh\content\AI助手系统\Py酱 - Python数据分析专家.md
+    - .qoder\repowiki\zh\content\AI助手系统\Torch君 - 深度学习专家.md
+    - .qoder\repowiki\zh\content\AI助手系统\多助手架构设计.md
+    - .qoder\repowiki\zh\content\AI助手系统\对话管理系统.md
+    - .qoder\repowiki\zh\content\AI助手系统\矩阵妹 - 线性代数专家.md
+    - .qoder\repowiki\zh\content\AI助手系统\高数酱 - 微积分与线代专家.md
+    - .qoder\repowiki\zh\content\API集成.md
+    - .qoder\repowiki\zh\content\多媒体功能.md
+    - .qoder\repowiki\zh\content\快速开始.md
+    - .qoder\repowiki\zh\content\故障排除\API集成问题.md
+    - .qoder\repowiki\zh\content\故障排除\开发环境问题.md
+    - .qoder\repowiki\zh\content\故障排除\性能问题.md
+    - .qoder\repowiki\zh\content\故障排除\故障排除.md
+    - .qoder\repowiki\zh\content\故障排除\调试工具与技巧.md
+    - .qoder\repowiki\zh\content\故障排除\运行时错误.md
+    - .qoder\repowiki\zh\content\数据管理\对话历史管理.md
+    - .qoder\repowiki\zh\content\数据管理\数据安全与隐私.md
+    - .qoder\repowiki\zh\content\数据管理\数据管理.md
+    - .qoder\repowiki\zh\content\数据管理\本地存储策略.md
+    - .qoder\repowiki\zh\content\数据管理\用户偏好数据.md
+    - .qoder\repowiki\zh\content\数据管理\错题本系统.md
+    - .qoder\repowiki\zh\content\构建与部署\开发环境构建.md
+    - .qoder\repowiki\zh\content\构建与部署\构建与部署.md
+    - .qoder\repowiki\zh\content\构建与部署\构建分析与监控.md
+    - .qoder\repowiki\zh\content\构建与部署\生产环境优化.md
+    - .qoder\repowiki\zh\content\构建与部署\部署配置.md
+    - .qoder\repowiki\zh\content\架构设计\前端架构.md
+    - .qoder\repowiki\zh\content\架构设计\数据流架构.md
+    - .qoder\repowiki\zh\content\架构设计\服务层设计.md
+    - .qoder\repowiki\zh\content\架构设计\构建与部署架构.md
+    - .qoder\repowiki\zh\content\架构设计\架构设计.md
+    - .qoder\repowiki\zh\content\用户界面系统\个人资料页面.md
+    - .qoder\repowiki\zh\content\用户界面系统\主对话页面.md
+    - .qoder\repowiki\zh\content\用户界面系统\消息内容组件.md
+    - .qoder\repowiki\zh\content\用户界面系统\用户界面系统.md
+    - .qoder\repowiki\zh\content\用户界面系统\登录页面.md
+    - .qoder\repowiki\zh\content\用户界面系统\设置页面.md
+    - .qoder\repowiki\zh\content\项目概述\技术栈.md
+    - .qoder\repowiki\zh\content\项目概述\核心功能.md
+    - .qoder\repowiki\zh\content\项目概述\设计理念.md
+    - .qoder\repowiki\zh\content\项目概述\项目介绍.md
+    - .qoder\repowiki\zh\content\项目概述\项目概述.md
+    - .qoder\repowiki\zh\meta\repowiki-metadata.json
+    - .vercel\README.txt
+    - .vercel\project.json
+    - .vscode\extensions.json
+    - .vscode\settings.json
+    - api\deepseek.js
+    - public\videos\4月12日.mp4
+    - public\videos\4月13日.mp4
+    - src\App.tsx
+    - src\components\MessageContent.tsx
+    - src\components\VideoBackground.tsx
+    - src\config\videoConfig.ts
+    - src\index.css
+    - src\main.tsx
+    - src\pages\Chat.tsx
+    - src\pages\Discussion.tsx
+    - src\pages\HelpCenter.tsx
+    - src\pages\Home.tsx
+    - src\pages\Login.tsx
+    - src\pages\Profile.tsx
+    - src\pages\Settings.tsx
+    - src\pages\WrongQuestions.tsx
+    - src\services\chatService.ts
+    - src\services\deepseek.ts
+    - src\services\discussionService.ts
+    - src\services\friendService.ts
+    - src\services\settingsService.ts
+    - src\services\wrongQuestions.ts
+source_files: []
+depends_on: []
+related_to: []
